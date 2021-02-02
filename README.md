@@ -1,1 +1,2 @@
-# infinate-runner-game-fixed
+# T-Rex Game
+T-Rex Game remade with camera view
